@@ -1,8 +1,8 @@
 # kszukcal
 
 Indítás:
-1., Npm install
-2., Npm start
+1., npm install
+2., npm start
 
 Megjegyzés:
 Láttam többféle BMR képletet, de direkt nem változtattam rajta, mivel ez volt megadva a feladatban.
